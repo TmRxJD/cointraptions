@@ -1,0 +1,70 @@
+{
+  "playUrl": "",
+  "slug": "cointraptions",
+  "title": "Cointraptions",
+  "alias": "Also known as The Incredible Tower",
+  "accent": "#f3d575",
+  "genre": "Contraption puzzle",
+  "premise": "Build the machine. Bring down the tower.",
+  "summary": "Arrange apparatus, route enemies, and turn a chain of small interactions into a working Tower-inspired contraption.",
+  "about": [
+    "Your goal is to route enemies through an arranged machine until they reach and dismantle the tower. Place and reposition apparatus, run the simulation, then adjust the parts that need another idea.",
+    "The campaign has 50 authored missions with three objectives per map. Complete objectives to earn coins and unlock supplemental apparatus. A separate seeded Creator mode offers another way to build challenges."
+  ],
+  "features": [
+    {
+      "title": "A machine you arrange",
+      "text": "Choose parts, position them, and test how their interactions shape the enemy route."
+    },
+    {
+      "title": "Campaign objectives",
+      "text": "Work through authored missions, each with three goals to solve."
+    },
+    {
+      "title": "Coins and a Creator mode",
+      "text": "Unlock supplemental parts with earned coins, or explore the separate seeded map builder."
+    }
+  ],
+  "steps": [
+    {
+      "title": "Arrange your apparatus",
+      "text": "Choose a part and place it on the board. Drag it into position and rotate it to suit the route."
+    },
+    {
+      "title": "Run your machine",
+      "text": "Start the simulation and watch how enemies travel through the arrangement toward the tower."
+    },
+    {
+      "title": "Revise and solve",
+      "text": "Pause, move or return parts, and test again. Complete the mission objectives to earn coins."
+    }
+  ],
+  "controls": [
+    {
+      "input": "Place and move",
+      "action": "Choose a part and click to place it. Drag an existing part to reposition it."
+    },
+    {
+      "input": "Space",
+      "action": "Run or pause the simulation."
+    },
+    {
+      "input": "R",
+      "action": "Rotate the selected part."
+    },
+    {
+      "input": "Delete",
+      "action": "Return a part to the available apparatus."
+    },
+    {
+      "input": "Scroll wheel or + / -",
+      "action": "Zoom the view in or out."
+    },
+    {
+      "input": "Drag empty space",
+      "action": "Pan around the board."
+    }
+  ],
+  "availability": "Cointraptions is in development. The public game build is not available on this page yet.",
+  "controlNote": "These are the current desktop controls. The game itself is not embedded on this site."
+}
